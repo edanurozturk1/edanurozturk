@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eda
-- 👀 I’m looking for tech people. 
+- 👀 I’m looking for software developers 
 - 📫 How to reach me https://www.linkedin.com/in/edanur-%C3%B6zt%C3%BCrk-a2629814b/
 
 <!---
